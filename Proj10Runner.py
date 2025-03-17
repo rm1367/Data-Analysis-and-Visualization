@@ -39,12 +39,6 @@ class Runner:
         #passing arguments to the plot suptitle
         fig.suptitle(f"args = ['{self.file_name}','{self.index_col}','{self.start_date}','{self.end_date}','{self.start_col}','{self.end_col}']")
         
-
-        print('I certify that this program is my own work\n'
-             'and is not the work of others. I agree\n'
-             'not to share my solution with others.\n'
-             'Ryan Maldonado')
-        
         plt.tight_layout()
         fig.savefig("Proj10.jpg")
         plt.show()
