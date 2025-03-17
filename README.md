@@ -15,6 +15,5 @@ This Python project is designed for data filtering, analysis, and visualization 
 - Matplotlib
 - Numpy
 
-![Plot1](https://github.com/rm1367/BloodPressurePlot/blob/main/images/Proj12-31.jpg)
+![Plot1](https://github.com/rm1367/Data-Analysis-and-Visualization/blob/main/images/Proj10.jpg)
 
-![Plot2](https://github.com/rm1367/BloodPressurePlot/blob/main/images/Proj12-61.jpg)
